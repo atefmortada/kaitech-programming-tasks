@@ -28,7 +28,7 @@ The repository is organized so each task is placed in its own folder, containing
 1. Make sure **Python** is installed on your system.
 2. Open the desired task file using any code editor or the terminal.
 3. Install the required libraries for each task:
-   ```bash
+
 ## 🎯 Course Objectives
 - Learn the fundamentals of **Python programming**.
 - Work with data efficiently using **pandas**.
