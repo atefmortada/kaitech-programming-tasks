@@ -27,7 +27,7 @@ The repository is organized so each task is placed in its own folder, containing
 ## ▶️ How to Run
 1. Make sure **Python** is installed on your system.
 2. Open the desired task file using any code editor or the terminal.
-3. Install the required libraries for each task:
+3. Install the required libraries for each task.
 
 ## 🎯 Course Objectives
 - Learn the fundamentals of **Python programming**.
