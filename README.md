@@ -1,4 +1,5 @@
 # Programming for Engineers  tasks–KAITECH  Program 
+![KAITECH Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kaitech-logo.png/320px-Kaitech-logo.png)  
 
 ## 📌 Overview
 This repository contains **8 Python programming tasks** developed as part of an engineering course.  
