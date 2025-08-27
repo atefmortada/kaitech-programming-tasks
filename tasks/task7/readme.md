@@ -1,6 +1,6 @@
 ### **Task 7: Sensor Data Visualization with Pandas**
 - **Problem:** Visualize sensor data using Pandas and Matplotlib
-- **Requirements:** 
+- **Requirements**: 
 - Load data into Pandas DataFrame
 - Time-series temperature plots
 - Scatter plot stress vs displacement
